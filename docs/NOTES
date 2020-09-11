@@ -1,0 +1,7 @@
+2020-09-10 
+  Created repo
+  Added paper with original tracking data 
+  Issued GPS data request (http://seabirdtracking.org/mapper/?dataset_id=1463)
+  Issued FSLE registration request via Aviso
+2020-09-11
+  James Grecian sent me a Gist for how to automate FSLE downloads (https://gist.github.com/raymondben/6a00ccc14b27dfe441dc1c071ad3baf3). See data/fsle/download_fsle.R. 
