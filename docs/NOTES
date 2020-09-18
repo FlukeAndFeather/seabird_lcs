@@ -5,3 +5,5 @@
   Issued FSLE registration request via Aviso
 2020-09-11
   James Grecian sent me a Gist for how to automate FSLE downloads (https://gist.github.com/raymondben/6a00ccc14b27dfe441dc1c071ad3baf3). See data/fsle/download_fsle.R. 
+2020-09-18
+  Aviso validated my access to FSLE so downloaded 2015 using pkg blueant. See updates to data/fsle/download_fsle.R for download code and simple map with histogram equalized palette. 
